@@ -71,10 +71,10 @@ NEXHK are expected to build as an API based web-app to achieve flexibility in te
 We will also use Relational Database Management System (RDBMS) , Email Server, Google Charts API , Tailwind CSS, React JS , JavaScript Libraries, Laravel Libraries
 
 #### PROPONENTS OF THE PROJECT :
-Rodence Atacadaor - QA and Security Officer
-Rupert Caingal - Project Manager and Lead Developer
-Ernesto Esguerra - Front-End Develoer and System Analyst
-Chsristian Salamat - Back-End Developer and System Analyst
+- Rodence Atacadaor - QA and Security Officer
+- Rupert Caingal - Project Manager and Lead Developer
+- Ernesto Esguerra - Front-End Develoer and System Analyst
+- Chsristian Salamat - Back-End Developer and System Analyst
 
 
 
